@@ -1,9 +1,0 @@
-adarsh singh: 100
-lucky : 98
-som:99
-vivek:85
-adarsh singh: 100
-lucky : 98
-som:99
-vivek:85
-new_student:53

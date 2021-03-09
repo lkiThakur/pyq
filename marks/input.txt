@@ -1,1 +1,5 @@
 new_student:53
+first_bencher: 42
+teachers_pet:52
+comedy_king:98
+sport_champ:95
